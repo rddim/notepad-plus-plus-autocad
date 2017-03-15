@@ -3,22 +3,22 @@
  * [Екранни снимки](#screenshots)
  * [Сваляне](../../releases/latest) на последната версия
  
---
+##
  * [Highlight Syntax for AutoCAD](#highlight-syntax-for-autocad)
  * [Auto-Completion Functions](#auto-completion-functions)
  * [Screenshots](#screenshots)
  * [Download](../../releases/latest) latest release
  
 ---
-#### Notepad++
---
+## Notepad++
+
 Можете да изтеглите Notepad++ от [тук](http://notepad-plus-plus.org/)
 
 Актуален български превод на Notepad++ можете да изтеглите от [тук](https://gist.github.com/rddim/bd37264898c3a17363e7437bcf1b4803)
 
 ---
-#### Синтаксис за оцветяване на команди
---
+## Синтаксис за оцветяване на команди
+
 Файловете от папка `userDefineLang` се внасят в Notepad++ чрез `Синтаксис` > `Дефиниране на синтаксис` > `Внасяне...`
 
   * **ACAD-Linetype.xml** - синтаксис за оцветяване на определени команди във файловете с типове `линии` (_*.lin_) за AutoCAD
@@ -29,9 +29,9 @@
 >
 > При обновяване на наличните такива, те трябва предварително да се премахнат, тъй като се получава дублиране.
 
---
-#### Автоматично завършване на команди
---
+---
+## Автоматично завършване на команди
+
 Файловете от папка `plugins` > `APIs` се поставят в папка `Notepad++` > `plugins` > `APIs`<sup><sup><b>[1]</b></sup></sup>
 
 За да работи, автоматичното завършване трябва да бъде разрешено в `Настройки` > `Предпочитания...` > `Авто-завършване` > `Завършване на функции и думи`
@@ -50,13 +50,13 @@
 **_След извършване на горните промени, е препоръчително Notepad++ да се рестартира_**
 
 ---
-#### Notepad++
---
+## Notepad++
+
 You can download Notepad++ from [here](http://notepad-plus-plus.org/)
 
 ---
-#### Highlight Syntax for AutoCAD
---
+## Highlight Syntax for AutoCAD
+
 The files from folder `userDefineLang` must be imported in Notepad++ by `Language` > `Define your language...` > `Import...`
 
   * **ACAD-Linetype.xml** - syntax highlight for `linetypes` files (_*.lin_) for AutoCAD
@@ -67,9 +67,9 @@ The files from folder `userDefineLang` must be imported in Notepad++ by `Languag
 >
 > If you update the existing UDLs, you must remove them firstly because of duplication
 
---
-#### Auto-Completion Functions
---
+---
+## Auto-Completion Functions
+
 The files from folder `plugins` > `APIs` must be placed in folder `Notepad++` > `plugins` > `APIs`<sup><sup><b>[1]</b></sup></sup>
 
 You must enable `Auto-Completion` option in Notepad++ from `Setting` > `Preferences` > `Auto-Completion` > `Enable auto-completion on each input` > `Function and word completion`
@@ -88,8 +88,8 @@ You must enable `Auto-Completion` option in Notepad++ from `Setting` > `Preferen
 **_It is recommended to restart Notepad++ after changes_**
 
 ---
-#### Screenshots
---
+## Screenshots
+
 * **Hatch (щриховки)**
 
 ![Hatch](/images/acad-hatch.png?raw=true)
