@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/rddim/notepad-plus-plus-autocad.svg?style=flat-square)](../../blob/master/LICENSE) [![Github All Releases](https://img.shields.io/github/release/rddim/notepad-plus-plus-autocad.svg?style=flat-square)](../../releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/rddim/notepad-plus-plus-autocad/total.svg?style=flat-square)](../../releases/latest)
+[![license](https://img.shields.io/github/license/rddim/notepad-plus-plus-autocad.svg)](../../blob/master/LICENSE) [![Github All Releases](https://img.shields.io/github/release/rddim/notepad-plus-plus-autocad.svg)](../../releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/rddim/notepad-plus-plus-autocad/total.svg)](../../releases/latest)
 * [Синтаксис за оцветяване на команди](#Синтаксис-за-оцветяване-на-команди)
  * [Автоматично завършване на команди](#Автоматично-завършване-на-команди)
  * [Екранни снимки](#screenshots)
